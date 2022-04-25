@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# tasks\Group and Student classes\Group and Student classes\obj\Debug\netcoreapp3.1\Group and Student classes.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# tasks\Group and Student classes\Group and Student classes\obj\Debug\netcoreapp3.1\Group and Student classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# tasks\Group and Student classes\Group and Student classes\obj\Debug\netcoreapp3.1\Group and Student classes.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\Group and Student classes\Group and Student classes\obj\Debug\netcoreapp3.1\Group and Student classes.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# tasks\Group and Student classes\Group and Student classes\obj\Debug\netcoreapp3.1\Group and Student classes.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\Group and Student classes\Group and Student classes\bin\Debug\netcoreapp3.1\Group and Student classes.exe
+C:\Users\ASUS\Desktop\C# tasks\Group and Student classes\Group and Student classes\bin\Debug\netcoreapp3.1\Group and Student classes.deps.json
+C:\Users\ASUS\Desktop\C# tasks\Group and Student classes\Group and Student classes\bin\Debug\netcoreapp3.1\Group and Student classes.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# tasks\Group and Student classes\Group and Student classes\bin\Debug\netcoreapp3.1\Group and Student classes.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# tasks\Group and Student classes\Group and Student classes\bin\Debug\netcoreapp3.1\Group and Student classes.dll
+C:\Users\ASUS\Desktop\C# tasks\Group and Student classes\Group and Student classes\bin\Debug\netcoreapp3.1\Group and Student classes.pdb
+C:\Users\ASUS\Desktop\C# tasks\Group and Student classes\Group and Student classes\obj\Debug\netcoreapp3.1\Group and Student classes.dll
+C:\Users\ASUS\Desktop\C# tasks\Group and Student classes\Group and Student classes\obj\Debug\netcoreapp3.1\Group and Student classes.pdb
+C:\Users\ASUS\Desktop\C# tasks\Group and Student classes\Group and Student classes\obj\Debug\netcoreapp3.1\Group and Student classes.genruntimeconfig.cache
